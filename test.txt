@@ -1,3 +1,5 @@
 First file in web git rep
 
 added anew line.
+
+delete file undo and reset
